@@ -11,8 +11,6 @@ namespace youbage.Entities
 
         public youbageDBContext(DbContextOptions<youbageDBContext> options):base(options)
         {
-
-
         }
 
 
