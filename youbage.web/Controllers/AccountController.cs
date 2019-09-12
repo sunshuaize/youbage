@@ -9,6 +9,7 @@ namespace youbage.web.Controllers
     {
         public IActionResult Index()
         {
+            Console.WriteLine();
             return View();
         }
     }
